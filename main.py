@@ -7,3 +7,5 @@ def userPreferences(dividends = false):
 #Predefined Ticker List
 tickers = []
 
+'test 1'
+
