@@ -8,3 +8,5 @@ def userPreferences(dividends = false):
 tickers = []
 
 'hello'
+
+'hi'
