@@ -6,3 +6,5 @@ def userPreferences(dividends = false):
     return
 #Predefined Ticker List
 tickers = []
+
+'hello'
