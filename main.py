@@ -1,6 +1,5 @@
 # Imports
-from googlefinance import getQuotes
-import json
+import investpy 
 # User Parameters
 def userPreferences(dividends = false):
     return
